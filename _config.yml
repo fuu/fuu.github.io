@@ -1,0 +1,8 @@
+title: F & J & M
+description: Unambiguous Blades
+google_analytics: ひこうき雲
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
