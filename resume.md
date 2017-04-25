@@ -1,11 +1,8 @@
 Xuxiao Lu
 =========
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+[Github Page](https://fuu.github.io)
+
 
 Summary
 -------
@@ -32,7 +29,7 @@ Over ten years' experience in the GNU/Linux and embedded systems.
 
 * Several BSPs for ARM and PowerPC boards.
 
-* Device drivers for MAC, NAND, UART, SPI, and I2C.
+* Device drivers for MAC, NAND, UART, SPI, I2C and USB.
 
 * ProBA building automation gateway protocol.
 
