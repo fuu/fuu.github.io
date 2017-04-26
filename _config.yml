@@ -4,9 +4,6 @@ google_analytics: ひこうき雲
 show_downloads: false
 theme: jekyll-theme-minimal
 
-navbar-links:
-    Resume: "resume"
-
 gems:
   - jekyll-mentions
 
