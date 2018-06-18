@@ -46,7 +46,7 @@ EXPERIENCE
 
 Developed management software, UI, firmware, and device drivers for network devices.
 
-Brought up new ASIC, hardwares and emulation platforms.
+Brought up new ASIC, hardware and emulation platforms.
 
 **Co-founder, YoTee! Inc;** Santa Clara, CA 2015-2017
 
