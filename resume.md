@@ -42,7 +42,7 @@ As a team member, I give priorities to team goals and am always positive toward 
 EXPERIENCE
 ----------
 
-**Senior Software Engineer, Adaptrum Inc;** 2017-present
+**Senior Software Engineer, Adaptrum Inc;** San Jose, CA 2017-present
 
 Developed management software, UI, firmware, and device drivers for network devices.
 
