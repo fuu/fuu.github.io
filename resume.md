@@ -42,7 +42,13 @@ As a team member, I give priorities to team goals and am always positive toward 
 EXPERIENCE
 ----------
 
-**Co-founder, YoTee! Inc;** Santa Clara, CA 2015-present
+**Senior Software Engineer, Adaptrum Inc;** 2017-present
+
+Developed management software, UI, firmware, and device drivers for network devices.
+
+Brought up new ASIC, hardwares and emulation platforms.
+
+**Co-founder, YoTee! Inc;** Santa Clara, CA 2015-2017
 
 Developed the iOS apparel customization app YoTee using Swift. YoTee enables customers to easily design their unique apparel and get it delivered in less than a week. Developed YoTee’s companion backend utilizing MongoDB, MariaDB/MySQL, SQLAlchemy, Flask-restful and Python, powered by Nginx and uwsgi.
 
